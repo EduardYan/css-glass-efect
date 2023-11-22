@@ -21,7 +21,7 @@ body {
   border: var(--border);
   border-radius: var(--br);
   width: 70%;
-  margin: 100px auto;
+  margin: 50px auto;
 
   box-shadow: 0 10px 20px 5px rgb(0 0 0 / 0.05);
   overflow: hidden;
@@ -167,5 +167,3 @@ main .header span {
   background-color: #118cff;
   box-shadow: 0 5px 10px 2px rgb(10 137 255 / 50%);
 }
-
-
